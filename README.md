@@ -4,5 +4,5 @@ amr26_utilities comtain the different modules that are being used in main_arm26_
 
 BiCurNet_anant_240_1600 contain utilitites for bicurnet Model
 
-Geometry folder contains the geometry files for arm26_model image
+Geometry folder contains the geometry files for arm26_model
 <img width="1787" height="1033" alt="416309754-9182706c-dbd4-4874-89a4-c5e103865d36" src="https://github.com/user-attachments/assets/754e3792-c996-4371-b4ee-56eb292ae637" />
