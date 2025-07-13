@@ -2,7 +2,7 @@ Overview: This project simulates a Brain-Controlled Interface (BCI) for an exosu
 
 *amr26_utilities comtain the different modules that are being used in main_arm26_withBCI code.*
 
-BiCurNet_anant_240_1600 contain utilitites for bicurnet Model
+*BiCurNet_anant_240_1600 contain utilitites for bicurnet Model*
 
-Geometry folder contains the geometry files for arm26_model
+*Geometry folder contains the geometry files for arm26_model*
 <img width="1787" height="1033" alt="416309754-9182706c-dbd4-4874-89a4-c5e103865d36" src="https://github.com/user-attachments/assets/754e3792-c996-4371-b4ee-56eb292ae637" />
